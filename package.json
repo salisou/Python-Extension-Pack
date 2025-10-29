@@ -2,16 +2,15 @@
   "name": "python-extension-pack-docente-moussa",
   "displayName": "Python Extension Pack Docente Moussa",
   "description": "Pacchetto di estensioni per configurare automaticamente un ambiente di sviluppo Python completo, con Django, Jinja, Pandas e strumenti didattici per docenti e studenti di Data Analytics. Contiene anche l'estensione per la gestione degli ambienti virtuali Python.",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "publisher": "moussa-docente",
   "repository": {
     "type": "git",
-    "url": "https://github.com/salisou/Python-Extension-Pack",
+    "url": "https://github.com/salisou/Python-Extension-Pack.git",
     "branch": "main",
-    "tag": "v1.2.2",
+    "tag": "v1.2.4",
     "date": "2025-10-29",
-    "author": "Salisou",
-    "email": "msalisou1@gmail.com"
+    "author": "Salisou"
   },
   "license": "MIT",
   "engines": {
@@ -21,7 +20,7 @@
   "resources": [
     {
       "id": "python-extension-pack-docente-moussa",
-      "repository": "https://github.com/salisou/Python-Extension-Pack"
+      "repository": "https://github.com/salisou/Python-Extension-Pack.git"
     }
   ],
   "categories": [
