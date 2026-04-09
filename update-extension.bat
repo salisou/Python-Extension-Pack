@@ -6,7 +6,7 @@ echo ===============================
 echo AGGIORNAMENTO ESTENSIONE VS CODE
 echo ===============================
 
-set VERSION=1.3.1
+set VERSION=2.0.0
 
 echo.
 echo 1. Commit modifiche...
